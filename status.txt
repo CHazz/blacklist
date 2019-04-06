@@ -1,5 +1,3 @@
-Chyba zdroje 17
-Použita záloha 17 (upravte URL)
-Počet záznamů : 36
-Velikost blacklistu : 693b
-Celkem aplikovaných změn v databázi : 625207
+Počet záznamů : 820256
+Velikost blacklistu : 19996455b
+Celkem aplikovaných změn v databázi : 820222
