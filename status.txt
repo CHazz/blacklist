@@ -1,8 +1,5 @@
-Zdroj 17  aktualizován. (0 změn)
-Zdroj 18  aktualizován. (0 změn)
-Zdroj 19  aktualizován. (0 změn)
-Zdroj 20  aktualizován. (0 změn)
-Zdroj 21  aktualizován. (0 změn)
-Počet záznamů : 820255
-Velikost blacklistu : 19996424b
-Celkem aplikovaných změn v databázi : 530166
+Chyba zdroje 19
+Použita záloha 19 (upravte URL)
+Počet záznamů : 625173
+Velikost blacklistu : 15048114b
+Celkem aplikovaných změn v databázi : 827662
