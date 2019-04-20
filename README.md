@@ -1,4 +1,4 @@
-# PowerDNS Blacklist Tuxlinux 3.0.6 Stable 
+# PowerDNS Blacklist Tuxlinux 3.0.7 Stable 
 
 ## General policies
  - Blocks telemetry servers
