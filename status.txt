@@ -1,3 +1,4 @@
-Počet záznamů : 759396
-Velikost blacklistu : 18602529b
-Celkem aplikovaných změn v databázi : 0
+Zdroj 23  aktualizován. (0 změn)
+Počet záznamů : 759519
+Velikost blacklistu : 18606262b
+Celkem aplikovaných změn v databázi : 123
