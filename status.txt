@@ -1,8 +1,7 @@
 Zdroj 2  aktualizován. (6500 změn)
-Zdroj 3  aktualizován. (14394 změn)
-Zdroj 4  aktualizován. (12 změn)
-Zdroj 11  aktualizován. (56 změn)
+Zdroj 3  aktualizován. (1518 změn)
+Zdroj 11  aktualizován. (174 změn)
 Zdroj 13  aktualizován. (2552 změn)
-Počet záznamů : 810321
-Velikost blacklistu : 19847456b
-Celkem aplikovaných změn v databázi : 869
+Počet záznamů : 810219
+Velikost blacklistu : 19845238b
+Celkem aplikovaných změn v databázi : 426
