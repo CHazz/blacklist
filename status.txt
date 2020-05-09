@@ -1,4 +1,3 @@
-Zdroj 2  aktualizován. (15 změn)
 Počet záznamů : 650670
 Velikost blacklistu : 15646015b
 Celkem aplikovaných změn v databázi : 0
