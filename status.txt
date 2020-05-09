@@ -1,4 +1,3 @@
 Počet záznamů : 90
 Velikost blacklistu : 2348b
-Pravděpodobná chyba, příliš mnoho změn : 650597
-Aktualizace pozastavena!
+Celkem aplikovaných změn v databázi : 650597
