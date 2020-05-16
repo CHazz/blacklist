@@ -1,4 +1,5 @@
-# PowerDNS Blacklist Tuxlinux 3.0.9 RC
+# End of support / PDNS rec is unusable And bugy :-\
+# PowerDNS Blacklist Tuxlinux 3.0.9
 
 ## General policies
  - Blocks telemetry servers
